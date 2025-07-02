@@ -1,0 +1,20 @@
+[
+  {
+    "Distance_km": 10,
+    "Traffic_delay": 5,
+    "Weather_severity": 1,
+    "Actual_delivery_time_min": 35
+  },
+  {
+    "Distance_km": 20,
+    "Traffic_delay": 10,
+    "Weather_severity": 2,
+    "Actual_delivery_time_min": 55
+  },
+  {
+    "Distance_km": 15,
+    "Traffic_delay": 7,
+    "Weather_severity": 0,
+    "Actual_delivery_time_min": 40
+  }
+]
